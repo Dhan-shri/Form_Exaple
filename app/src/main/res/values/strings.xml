@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sampleExample</string>
+    <string name="click_here">Click Here</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_city">Enter your city</string>
+    <string name="enter_your_phone_no">Enter your phone no.</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="name">Name :-</string>
+    <string name="phone">Phone :-</string>
+    <string name="e_mail">E-mail :-</string>
+</resources>
